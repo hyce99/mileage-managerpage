@@ -1,0 +1,10 @@
+mileage\config\kafka\KafkaProcessor.class
+mileage\ManagerpageApplication.class
+mileage\AbstractEvent.class
+mileage\ManagerpageViewHandler.class
+mileage\DormantMemberInserted.class
+mileage\Managerpage.class
+mileage\DormantMemberChanged.class
+mileage\PolicyHandler.class
+mileage\ManagerpageRepository.class
+mileage\AbstractEvent$1.class
